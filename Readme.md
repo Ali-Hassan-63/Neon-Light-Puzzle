@@ -67,7 +67,7 @@ cd light-puzzle-challenge
 ## 3. Run the Game
 
 ```bash
-python main.py
+python sourcecode.py
 ```
 
 ---
