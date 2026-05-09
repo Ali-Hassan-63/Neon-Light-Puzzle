@@ -108,13 +108,8 @@ This project is developed for academic and educational purposes.
 ---
 
 # 👨‍💻 Author
-
+Syed Ali Hassan
 Developed as a Python GUI puzzle game project using Tkinter and pygame.
 
-````
 
-requirements.txt
-
-```txt id="gt2hgs"
-pygame
 ````
