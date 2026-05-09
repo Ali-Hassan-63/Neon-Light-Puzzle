@@ -39,7 +39,6 @@ The player must discover the correct hidden switch configuration to turn the bul
 LightPuzzleChallenge/
 │
 ├── main.py
-├── requirements.txt
 ├── README.md
 ├── scores.csv
 ├── click.wav
