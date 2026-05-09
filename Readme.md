@@ -63,13 +63,8 @@ git clone https://github.com/Ali-Hassan-63/Neon-Light-Puzzle
 cd light-puzzle-challenge
 ```
 
-## 3. Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-## 4. Run the Game
+## 3. Run the Game
 
 ```bash
 python main.py
@@ -108,8 +103,8 @@ This project is developed for academic and educational purposes.
 ---
 
 # 👨‍💻 Author
-Syed Ali Hassan
-Developed as a Python GUI puzzle game project using Tkinter and pygame.
+Syed Ali Hassan    
+    Developed as a Python GUI puzzle game project using Tkinter and pygame.
 
 
 ````
